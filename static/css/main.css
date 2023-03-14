@@ -1,0 +1,11 @@
+body {
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
